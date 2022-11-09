@@ -1,0 +1,15 @@
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\bin\Debug\net6.0\LinqExample2.exe
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\bin\Debug\net6.0\LinqExample2.deps.json
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\bin\Debug\net6.0\LinqExample2.runtimeconfig.json
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\bin\Debug\net6.0\LinqExample2.dll
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\bin\Debug\net6.0\LinqExample2.pdb
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\LinqExample2.csproj.AssemblyReference.cache
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\LinqExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\LinqExample2.AssemblyInfoInputs.cache
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\LinqExample2.AssemblyInfo.cs
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\LinqExample2.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\LinqExample2.dll
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\refint\LinqExample2.dll
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\LinqExample2.pdb
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\LinqExample2.genruntimeconfig.cache
+C:\Users\KADIR\source\repos\Coder\LinqEx\LinqExample2\obj\Debug\net6.0\ref\LinqExample2.dll
